@@ -78,6 +78,7 @@
               <li><a href="contactanos.html" >CONTACTO</a>
                 
               </li>
+              <li><a href="#" ><i class="fas fa-shopping-cart"></i></a></li>
             </ul>
           </div>
         </div>
@@ -153,4 +154,5 @@
     <script src="assets/js/plugins.js"></script>
     <script src="assets/js/main.js"></script>
   </body>
+  <script src="https://kit.fontawesome.com/cb918a26fb.js" crossorigin="anonymous"></script>
 </html>
