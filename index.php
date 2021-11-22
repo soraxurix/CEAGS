@@ -79,6 +79,8 @@
                 
               </li>
               <li><a href="#" ><i class="fas fa-shopping-cart"></i></a></li>
+              <li><a href="#" ><i class="fas fa-cog"></i></a></li>
+              
             </ul>
           </div>
         </div>
