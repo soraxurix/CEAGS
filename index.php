@@ -65,7 +65,7 @@
           </div>
           <div class="collapse navbar-collapse" id="custom-collapse">
             <ul class="nav navbar-nav navbar-right">
-              <li><a href="index.html" >PRINCIPAL</a>
+              <li><a href="index.php" >PRINCIPAL</a>
                 
               </li>
               <li><a class="section-scroll" href="#carros" >COCHES</a>
@@ -80,7 +80,7 @@
               </li>
               <li><a href="#" ><i class="fas fa-shopping-cart"></i></a></li>
               <li><a href="#" ><i class="fas fa-cog"></i></a></li>
-              
+
             </ul>
           </div>
         </div>
