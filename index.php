@@ -127,6 +127,9 @@
                   <h4 style="margin-top: 0px;">CEAGS</h4>
                   <p style="margin-bottom: 0px;">El auto a tu alcance</p>
                   <p style="margin-bottom: 0px;">CEAGS@hotmail.com</p>
+                  <hr>
+                  <p style="margin-top: 10px;">Registrate a nuestro catálogo</p>
+                  <img src="QR/QR2.png" style="height: 150px;width: 150px;"> 
                 </div>
               </div>
               <div class="col-sm-6 col-md-4 col-lg-3">
